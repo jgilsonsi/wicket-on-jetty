@@ -1,1 +1,1 @@
-Projeto base usando framework Wicket e servidor Jetty.
+Projeto base usando framework Apache Wicket e servidor Jetty.
